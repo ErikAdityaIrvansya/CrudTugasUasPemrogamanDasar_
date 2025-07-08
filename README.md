@@ -35,24 +35,6 @@ Proyek ini adalah aplikasi **CRUD (Create, Read, Update, Delete)** sederhana men
 
 ---
 
-## 📁 Struktur Folder
-├── src/
-│ └── (Source code Java)
-├── data base/
-│ └── (File SQL atau backup database)
-├── lib/
-│ └── (Library tambahan, misalnya MySQL connector)
-├── build/
-│ └── (File hasil build)
-├── nbproject/
-│ └── (File project NetBeans)
-├── manifest.mf
-│ └── (File konfigurasi project)
-└── build.xml
-└── (File build otomatis)
-
----
-
 ## ⚙️ Cara Menjalankan
 
 1. Import project ke dalam **NetBeans**.
